@@ -7,8 +7,6 @@ function setup(){
 }
 y=0;
 x=25;
-incr = 1;
-incry=4
 function draw() {
   // background(0);
 
